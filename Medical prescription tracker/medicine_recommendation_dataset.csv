@@ -1,0 +1,351 @@
+﻿Symptom,Disease,Recommended Medicine,Category,Dosage Form,Strength (mg),Manufacturer,Prescription Type,Nearest Pharmacy,City
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Tablet,730,Eli Lilly,Over-the-Counter,CareWell Pharmacy,Islamabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Capsule,936,,Over-the-Counter,TrustPharma,Faisalabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Cream,714,Bayer,Prescription,WellLife,Lahore
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,598,Teva,Prescription,TrustPharma,Multan
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Syrup,190,Pfizer,Prescription,CareWell Pharmacy,Islamabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Cream,881,Eli Lilly,Prescription,HealthPlus,Islamabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Ointment,223,,Over-the-Counter,DawaCenter,Multan
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Capsule,390,Eli Lilly,Over-the-Counter,Sehat Pharmacy,Multan
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Cream,184,Sanofi,Over-the-Counter,HealthPlus,Multan
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,833,GSK,Over-the-Counter,CityMeds,Multan
+Toothache,Dental Infection,Augmentin,Combination,Drops,410,Teva,Prescription,TrustPharma,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Syrup,724,Eli Lilly,Over-the-Counter,TrustPharma,Multan
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Inhaler,699,Pfizer,Over-the-Counter,Sehat Pharmacy,Peshawar
+Toothache,Dental Infection,Augmentin,Combination,Inhaler,457,GSK,Over-the-Counter,CareWell Pharmacy,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,463,GSK,Over-the-Counter,HealthPlus,Quetta
+Toothache,Dental Infection,Augmentin,Combination,Cream,903,GSK,Over-the-Counter,CureMed,Islamabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Syrup,268,GSK,Over-the-Counter,MediCare,Quetta
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,236,GSK,Prescription,LifeCure,Quetta
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Injection,439,GSK,Over-the-Counter,DawaCenter,Multan
+Burn Injury,,Silver Sulfadiazine,Topical Cream,Inhaler,917,GSK,Over-the-Counter,CureMed,Multan
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Injection,,GSK,Over-the-Counter,DawaCenter,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Tablet,843,GSK,Prescription,LifeCure,Peshawar
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Cream,919,GSK,Over-the-Counter,WellLife,Multan
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Cream,664,GSK,Prescription,CareWell Pharmacy,Islamabad
+"Cough, Chest Pain",,Azithromycin,Antibiotic,Ointment,502,GSK,Prescription,CareWell Pharmacy,Peshawar
+Joint Pain,,Diclofenac,Anti-inflammatory,Cream,860,GSK,Prescription,WellLife,Faisalabad
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Capsule,435,GSK,Over-the-Counter,MediCare,Multan
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Tablet,262,GSK,Over-the-Counter,MediCare,Islamabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Drops,168,GSK,Prescription,LifeCure,Multan
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Cream,569,GSK,Over-the-Counter,TrustPharma,Lahore
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Syrup,300,GSK,Prescription,HealthPlus,Faisalabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Tablet,782,GSK,Prescription,CareWell Pharmacy,Faisalabad
+"Cold, Sneezing",Common Cold,Cetirizine,Astamine,Ointment,404,GSK,Prescription,LifeCure,Faisalabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Drops,480,GSK,Over-the-Counter,Sehat Pharmacy,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Injection,124,GSK,Prescription,HealthPlus,Lahore
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Ointment,524,GSK,Prescription,CureMed,Multan
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Ointment,449,GSK,Over-the-Counter,TrustPharma,Multan
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Ointment,244,GSK,Prescription,MediCare,Lahore
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,731,GSK,Over-the-Counter,DawaCenter,Peshawar
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Syrup,797,GSK,Over-the-Counter,TrustPharma,Peshawar
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,652,GSK,Prescription,DawaCenter,Lahore
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Drops,441,GSK,Over-the-Counter,DawaCenter,Multan
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Syrup,567,GSK,Over-the-Counter,DawaCenter,Multan
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Tablet,563,GSK,Over-the-Counter,Sehat Pharmacy,Islamabad
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Ointment,400,GSK,Prescription,LifeCure,Karachi
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,211,GSK,Over-the-Counter,CureMed,Quetta
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Inhaler,998,GSK,Prescription,DawaCenter,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Drops,375,GSK,Over-the-Counter,Sehat Pharmacy,Islamabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Tablet,411,GSK,Prescription,TrustPharma,Peshawar
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Injection,866,GSK,Over-the-Counter,CityMeds,Faisalabad
+Toothache,Dental Infection,Augmentin,Combination,Ointment,468,GSK,Prescription,DawaCenter,Faisalabad
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Inhaler,803,GSK,Over-the-Counter,WellLife,Lahore
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Capsule,979,GSK,Over-the-Counter,CureMed,Islamabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Cream,399,GSK,Prescription,MediCare,Islamabad
+Toothache,Dental Infection,Augmentin,Combination,Injection,444,GSK,Prescription,TrustPharma,Multan
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Inhaler,625,GSK,Prescription,LifeCure,Peshawar
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Cream,227,GSK,Prescription,Sehat Pharmacy,Peshawar
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,488,GSK,Prescription,CareWell Pharmacy,Lahore
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Ointment,349,GSK,Prescription,TrustPharma,Multan
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Cream,967,GSK,Prescription,LifeCure,Multan
+Toothache,Dental Infection,Augmentin,Combination,Ointment,814,GSK,Prescription,Sehat Pharmacy,Multan
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Injection,226,GSK,Prescription,DawaCenter,Faisalabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,344,GSK,Over-the-Counter,DawaCenter,Multan
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Inhaler,921,GSK,Prescription,Sehat Pharmacy,Faisalabad
+Sore Throat,Infection,Amoxicillin,Antiviral,Drops,701,GSK,Prescription,DawaCenter,Faisalabad
+Migraine,Headache,Sumatriptan,Antimigraine,Drops,247,GSK,Over-the-Counter,MediCare,Faisalabad
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Ointment,962,GSK,Prescription,WellLife,Karachi
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Syrup,350,GSK,Over-the-Counter,CureMed,Peshawar
+Sore Throat,Infection,Amoxicillin,Antiviral,Drops,308,GSK,Over-the-Counter,TrustPharma,Multan
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Drops,392,GSK,Over-the-Counter,Sehat Pharmacy,Faisalabad
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Injection,447,GSK,Prescription,DawaCenter,Faisalabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Injection,415,GSK,Over-the-Counter,TrustPharma,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Inhaler,457,GSK,Prescription,HealthPlus,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Capsule,385,GSK,Prescription,CityMeds,Islamabad
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Ointment,427,GSK,Over-the-Counter,MediCare,Faisalabad
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Inhaler,443,GSK,Prescription,TrustPharma,Lahore
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Injection,447,GSK,Prescription,LifeCure,Peshawar
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Capsule,765,GSK,Prescription,CureMed,Peshawar
+Migraine,Headache,Sumatriptan,Antimigraine,Tablet,115,GSK,Prescription,CureMed,Quetta
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Drops,393,GSK,Over-the-Counter,Sehat Pharmacy,Islamabad
+Toothache,Dental Infection,Augmentin,Combination,Cream,331,GSK,Prescription,CureMed,Karachi
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Ointment,262,GSK,Prescription,HealthPlus,Karachi
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Tablet,902,GSK,Prescription,TrustPharma,Peshawar
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Capsule,212,GSK,Prescription,WellLife,Faisalabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Capsule,220,GSK,Prescription,DawaCenter,Karachi
+Migraine,Headache,Sumatriptan,Antimigraine,Drops,940,GSK,Over-the-Counter,HealthPlus,Faisalabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Syrup,836,GSK,Prescription,TrustPharma,Quetta
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Tablet,263,GSK,Prescription,WellLife,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Capsule,335,GSK,Prescription,DawaCenter,Islamabad
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Ointment,984,GSK,Over-the-Counter,MediCare,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Cream,183,GSK,Over-the-Counter,DawaCenter,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Drops,515,GSK,Over-the-Counter,CareWell Pharmacy,Lahore
+Migraine,Headache,Sumatriptan,Antimigraine,Capsule,159,GSK,Over-the-Counter,LifeCure,Faisalabad
+Toothache,Dental Infection,Augmentin,Combination,Cream,271,GSK,Prescription,CityMeds,Peshawar
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Capsule,269,GSK,Over-the-Counter,MediCare,Faisalabad
+Sore Throat,Infection,Amoxicillin,Antiviral,Syrup,534,GSK,Over-the-Counter,CityMeds,Faisalabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Capsule,915,GSK,Over-the-Counter,HealthPlus,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Ointment,331,GSK,Prescription,HealthPlus,Peshawar
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Ointment,446,GSK,Prescription,MediCare,Faisalabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Syrup,593,GSK,Prescription,HealthPlus,Multan
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Drops,797,GSK,Over-the-Counter,MediCare,Lahore
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Syrup,899,GSK,Over-the-Counter,Sehat Pharmacy,Quetta
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Capsule,872,GSK,Over-the-Counter,Sehat Pharmacy,Peshawar
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Syrup,938,GSK,Over-the-Counter,MediCare,Multan
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,254,GSK,Prescription,WellLife,Islamabad
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Drops,399,GSK,Over-the-Counter,CureMed,Lahore
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,865,GSK,Prescription,WellLife,Lahore
+Toothache,Dental Infection,Augmentin,Combination,Injection,822,GSK,Prescription,Sehat Pharmacy,Lahore
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Inhaler,262,GSK,Over-the-Counter,WellLife,Quetta
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Drops,328,GSK,Over-the-Counter,TrustPharma,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Inhaler,431,GSK,Over-the-Counter,DawaCenter,Peshawar
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Capsule,332,GSK,Over-the-Counter,CureMed,Karachi
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Capsule,160,GSK,Over-the-Counter,HealthPlus,Quetta
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Cream,878,GSK,Prescription,LifeCure,Faisalabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Syrup,311,GSK,Prescription,TrustPharma,Islamabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Cream,331,GSK,Prescription,Sehat Pharmacy,Lahore
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Cream,814,GSK,Prescription,MediCare,Karachi
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,674,GSK,Prescription,WellLife,Multan
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Cream,137,GSK,Prescription,WellLife,Faisalabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Cream,138,GSK,Prescription,TrustPharma,Peshawar
+Migraine,Headache,Sumatriptan,Antimigraine,Tablet,811,GSK,Over-the-Counter,DawaCenter,Islamabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Syrup,,GSK,Over-the-Counter,LifeCure,Islamabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Syrup,638,GSK,Over-the-Counter,HealthPlus,Quetta
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Cream,623,GSK,Prescription,DawaCenter,Peshawar
+Sore Throat,Infection,Amoxicillin,Antiviral,Tablet,567,GSK,Over-the-Counter,CityMeds,Islamabad
+Toothache,Dental Infection,Augmentin,Combination,Injection,263,GSK,Prescription,LifeCure,Multan
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,199,GSK,Prescription,WellLife,Quetta
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Drops,264,GSK,Over-the-Counter,CureMed,Quetta
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Tablet,153,GSK,Prescription,TrustPharma,Karachi
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Cream,528,GSK,Over-the-Counter,TrustPharma,Islamabad
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Drops,225,GSK,Over-the-Counter,CareWell Pharmacy,Faisalabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Drops,725,GSK,Prescription,CureMed,Faisalabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Cream,349,GSK,Over-the-Counter,DawaCenter,Peshawar
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Cream,254,GSK,Over-the-Counter,MediCare,Quetta
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Tablet,303,GSK,Prescription,CureMed,Karachi
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Inhaler,735,GSK,Over-the-Counter,WellLife,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Injection,663,GSK,Prescription,MediCare,Islamabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Inhaler,389,GSK,Prescription,TrustPharma,Islamabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,926,GSK,Over-the-Counter,WellLife,Peshawar
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Ointment,939,GSK,Prescription,CityMeds,Peshawar
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,914,GSK,Prescription,CityMeds,Lahore
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Ointment,640,GSK,Over-the-Counter,CureMed,Lahore
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Tablet,978,GSK,Over-the-Counter,DawaCenter,Faisalabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,385,GSK,Over-the-Counter,CureMed,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,894,GSK,Over-the-Counter,CureMed,Multan
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Inhaler,147,GSK,Over-the-Counter,CureMed,Multan
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Inhaler,956,GSK,Prescription,WellLife,Islamabad
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Tablet,601,GSK,Prescription,CareWell Pharmacy,Peshawar
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Cream,254,GSK,Prescription,CityMeds,Lahore
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Injection,743,GSK,Over-the-Counter,LifeCure,Peshawar
+Sore Throat,Infection,Amoxicillin,Antiviral,Injection,118,GSK,Over-the-Counter,MediCare,Lahore
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,490,GSK,Over-the-Counter,TrustPharma,Karachi
+Migraine,Headache,Sumatriptan,Antimigraine,Ointment,931,GSK,Over-the-Counter,WellLife,Islamabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Capsule,335,GSK,Over-the-Counter,WellLife,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Drops,967,GSK,Prescription,MediCare,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Inhaler,473,GSK,Prescription,CityMeds,Faisalabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Tablet,259,GSK,Over-the-Counter,CityMeds,Quetta
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Inhaler,486,GSK,Over-the-Counter,TrustPharma,Islamabad
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Tablet,690,GSK,Prescription,CureMed,Faisalabad
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Capsule,224,GSK,Prescription,MediCare,Multan
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Syrup,221,GSK,Over-the-Counter,CareWell Pharmacy,Multan
+Toothache,Dental Infection,Augmentin,Combination,Inhaler,765,GSK,Prescription,HealthPlus,Faisalabad
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Injection,332,GSK,Prescription,LifeCure,Multan
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Syrup,183,GSK,Over-the-Counter,WellLife,Faisalabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,105,GSK,Over-the-Counter,TrustPharma,Multan
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Capsule,798,GSK,Prescription,DawaCenter,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Tablet,410,GSK,Prescription,TrustPharma,Islamabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Inhaler,385,GSK,Prescription,WellLife,Multan
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Capsule,377,GSK,Over-the-Counter,CareWell Pharmacy,Peshawar
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,,GSK,Over-the-Counter,MediCare,Multan
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,570,GSK,Over-the-Counter,HealthPlus,Quetta
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Tablet,337,GSK,Over-the-Counter,DawaCenter,Karachi
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Syrup,193,GSK,Over-the-Counter,MediCare,Quetta
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Drops,819,GSK,Over-the-Counter,WellLife,Islamabad
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Syrup,897,GSK,Over-the-Counter,TrustPharma,Quetta
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Syrup,879,GSK,Prescription,CareWell Pharmacy,Islamabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Inhaler,836,GSK,Over-the-Counter,CareWell Pharmacy,Lahore
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Tablet,937,GSK,Prescription,CareWell Pharmacy,Lahore
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Capsule,244,GSK,Prescription,WellLife,Quetta
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Injection,412,GSK,Over-the-Counter,WellLife,Peshawar
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Injection,555,GSK,Prescription,LifeCure,Islamabad
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Injection,557,GSK,Prescription,CareWell Pharmacy,Lahore
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Capsule,949,GSK,Prescription,MediCare,Karachi
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Syrup,551,GSK,Over-the-Counter,CityMeds,Karachi
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Ointment,191,GSK,Over-the-Counter,MediCare,Islamabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,420,GSK,Prescription,Sehat Pharmacy,Islamabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Ointment,648,GSK,Over-the-Counter,LifeCure,Multan
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,,GSK,Prescription,LifeCure,Karachi
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Tablet,601,GSK,Prescription,Sehat Pharmacy,Lahore
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Tablet,468,GSK,Over-the-Counter,DawaCenter,Islamabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Inhaler,955,GSK,Prescription,CityMeds,Quetta
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Tablet,993,GSK,Over-the-Counter,CityMeds,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Syrup,796,GSK,Over-the-Counter,CityMeds,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Syrup,866,GSK,Over-the-Counter,DawaCenter,Islamabad
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Ointment,439,GSK,Over-the-Counter,WellLife,Quetta
+Migraine,Headache,Sumatriptan,Antimigraine,Capsule,596,GSK,Over-the-Counter,LifeCure,Lahore
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Tablet,263,GSK,Prescription,MediCare,Lahore
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Ointment,484,GSK,Prescription,MediCare,Faisalabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Injection,387,GSK,Prescription,Sehat Pharmacy,Lahore
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Injection,850,GSK,Prescription,HealthPlus,Karachi
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Drops,273,GSK,Prescription,CityMeds,Faisalabad
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Syrup,1000,GSK,Prescription,LifeCure,Peshawar
+Joint Pain,Arthritis,Diclofenac,Anti-inflammatory,Ointment,339,GSK,Prescription,MediCare,Multan
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Drops,883,GSK,Over-the-Counter,CareWell Pharmacy,Faisalabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Syrup,245,GSK,Over-the-Counter,MediCare,Faisalabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Injection,210,GSK,Prescription,TrustPharma,Faisalabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Inhaler,764,GSK,Over-the-Counter,CityMeds,Karachi
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Tablet,204,GSK,Prescription,HealthPlus,Karachi
+Toothache,Dental Infection,Augmentin,Combination,Inhaler,319,GSK,Prescription,MediCare,Lahore
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Capsule,699,GSK,Prescription,DawaCenter,Faisalabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Syrup,348,GSK,Over-the-Counter,MediCare,Faisalabad
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Tablet,668,GSK,Over-the-Counter,CareWell Pharmacy,Multan
+Toothache,Dental Infection,Augmentin,Combination,Capsule,306,GSK,Over-the-Counter,WellLife,Faisalabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Syrup,681,GSK,Prescription,WellLife,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Tablet,968,GSK,Over-the-Counter,LifeCure,Multan
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Syrup,953,GSK,Prescription,TrustPharma,Peshawar
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Drops,445,GSK,Over-the-Counter,MediCare,Karachi
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Injection,102,GSK,Over-the-Counter,MediCare,Faisalabad
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Capsule,270,GSK,Prescription,CareWell Pharmacy,Karachi
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Drops,763,GSK,Prescription,CareWell Pharmacy,Quetta
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Capsule,206,GSK,Prescription,CureMed,Faisalabad
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Tablet,251,GSK,Over-the-Counter,Sehat Pharmacy,Lahore
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Cream,929,GSK,Over-the-Counter,CityMeds,Lahore
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Ointment,825,GSK,Prescription,CureMed,Lahore
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Drops,182,GSK,Prescription,DawaCenter,Multan
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Inhaler,516,GSK,Over-the-Counter,WellLife,Multan
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Capsule,736,GSK,Over-the-Counter,TrustPharma,Lahore
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Injection,505,GSK,Over-the-Counter,CityMeds,Multan
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Injection,374,GSK,Over-the-Counter,CityMeds,Faisalabad
+Migraine,Headache,Sumatriptan,Antimigraine,Tablet,559,GSK,Over-the-Counter,Sehat Pharmacy,Karachi
+Sore Throat,Infection,Amoxicillin,Antiviral,Inhaler,134,Merck,Prescription,CureMed,Lahore
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Syrup,516,Abbott,Over-the-Counter,CureMed,Karachi
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Tablet,316,GSK,Prescription,Sehat Pharmacy,Lahore
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Ointment,923,AstraZeneca,Prescription,MediCare,Lahore
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Tablet,285,Pfizer,Over-the-Counter,MediCare,Lahore
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Capsule,319,Takeda,Over-the-Counter,CureMed,Multan
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Syrup,863,Eli Lilly,Over-the-Counter,Sehat Pharmacy,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Cream,313,Merck,Over-the-Counter,CityMeds,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Tablet,651,Novartis,Over-the-Counter,MediCare,Quetta
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Syrup,800,Takeda,Prescription,CityMeds,Multan
+Sore Throat,Infection,Amoxicillin,Antiviral,Syrup,563,Eli Lilly,Over-the-Counter,CityMeds,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Tablet,488,Bayer,Over-the-Counter,DawaCenter,Peshawar
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Drops,493,Eli Lilly,Prescription,CityMeds,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Ointment,400,Eli Lilly,Over-the-Counter,LifeCure,Islamabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Injection,832,Novartis,Over-the-Counter,MediCare,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Tablet,124,Bayer,Over-the-Counter,WellLife,Quetta
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Drops,504,Sanofi,Over-the-Counter,TrustPharma,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Capsule,328,Novartis,Prescription,CareWell Pharmacy,Lahore
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Capsule,800,GSK,Prescription,CureMed,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,651,Takeda,Over-the-Counter,CureMed,Karachi
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Inhaler,651,Sanofi,Over-the-Counter,CareWell Pharmacy,Lahore
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,862,Eli Lilly,Over-the-Counter,HealthPlus,Karachi
+Sore Throat,Infection,Amoxicillin,Antiviral,Ointment,669,Abbott,Over-the-Counter,TrustPharma,Peshawar
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Tablet,112,Novartis,Over-the-Counter,CityMeds,Peshawar
+Migraine,Headache,Sumatriptan,Antimigraine,Ointment,464,Takeda,Over-the-Counter,WellLife,Lahore
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Drops,967,Bayer,Over-the-Counter,MediCare,Lahore
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Syrup,597,GSK,Prescription,MediCare,Karachi
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Cream,790,Eli Lilly,Over-the-Counter,LifeCure,Karachi
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Tablet,237,Sanofi,Over-the-Counter,HealthPlus,Islamabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,515,Pfizer,Prescription,Sehat Pharmacy,Multan
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Ointment,241,GSK,Prescription,LifeCure,Quetta
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Inhaler,966,AstraZeneca,Prescription,Sehat Pharmacy,Islamabad
+Toothache,Dental Infection,Augmentin,Combination,Syrup,102,Teva,Over-the-Counter,WellLife,Faisalabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,112,Pfizer,Prescription,CityMeds,Peshawar
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Cream,840,Novartis,Prescription,CareWell Pharmacy,Lahore
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Inhaler,408,Novartis,Over-the-Counter,CareWell Pharmacy,Multan
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Inhaler,727,Sanofi,Over-the-Counter,DawaCenter,Peshawar
+Toothache,Dental Infection,Augmentin,Combination,Cream,185,AstraZeneca,Prescription,LifeCure,Karachi
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Inhaler,922,Merck,Prescription,DawaCenter,Islamabad
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Capsule,675,GSK,Prescription,TrustPharma,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Injection,944,Roche,Prescription,CityMeds,Peshawar
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Syrup,418,Eli Lilly,Over-the-Counter,WellLife,Islamabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Injection,862,Novartis,Over-the-Counter,CureMed,Multan
+"Fever, Headache",Viral Infection,Paracetamol,Antipyretic,Capsule,578,Bayer,Over-the-Counter,TrustPharma,Faisalabad
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Ointment,538,Eli Lilly,Over-the-Counter,CityMeds,Faisalabad
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Inhaler,842,GSK,Over-the-Counter,CityMeds,Peshawar
+Migraine,Headache,Sumatriptan,Antimigraine,Injection,567,Takeda,Over-the-Counter,HealthPlus,Islamabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Cream,640,Sanofi,Prescription,MediCare,Multan
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Drops,437,Merck,Over-the-Counter,LifeCure,Lahore
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Injection,679,Bayer,Prescription,CureMed,Multan
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Syrup,915,Bayer,Over-the-Counter,CureMed,Peshawar
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Capsule,157,Pfizer,Prescription,CareWell Pharmacy,Faisalabad
+Toothache,Dental Infection,Augmentin,Combination,Ointment,419,Merck,Prescription,CityMeds,Quetta
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Cream,119,Bayer,Prescription,CureMed,Lahore
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Drops,478,Novartis,Prescription,TrustPharma,Islamabad
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Tablet,127,Merck,Over-the-Counter,DawaCenter,Islamabad
+Sore Throat,Infection,Amoxicillin,Antiviral,Ointment,581,Takeda,Over-the-Counter,CareWell Pharmacy,Lahore
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Drops,552,Bayer,Prescription,MediCare,Quetta
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Inhaler,145,Abbott,Over-the-Counter,TrustPharma,Lahore
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Injection,797,Bayer,Prescription,CityMeds,Faisalabad
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Drops,195,Merck,Prescription,CureMed,Quetta
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Syrup,777,Teva,Over-the-Counter,CityMeds,Peshawar
+Toothache,Dental Infection,Augmentin,Combination,Syrup,991,Pfizer,Prescription,WellLife,Karachi
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Syrup,573,Eli Lilly,Prescription,CityMeds,Islamabad
+Migraine,Headache,Sumatriptan,Antimigraine,Injection,271,Sanofi,Over-the-Counter,DawaCenter,Peshawar
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Injection,206,Teva,Prescription,HealthPlus,Peshawar
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,610,Bayer,Over-the-Counter,HealthPlus,Multan
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Syrup,725,Roche,Over-the-Counter,WellLife,Quetta
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Injection,834,Takeda,Over-the-Counter,CureMed,Multan
+Toothache,Dental Infection,Augmentin,Combination,Tablet,455,Teva,Prescription,LifeCure,Faisalabad
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Drops,999,Roche,Over-the-Counter,TrustPharma,Faisalabad
+"Anxiety, Insomnia",Depression,Fluoxetine,Antidepressant,Tablet,599,Novartis,Over-the-Counter,Sehat Pharmacy,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,422,Sanofi,Over-the-Counter,WellLife,Faisalabad
+Shortness of Breath,Asthma,Salbutamol,Bronchodilator,Injection,904,Bayer,Over-the-Counter,Sehat Pharmacy,Lahore
+Migraine,Headache,Sumatriptan,Antimigraine,Inhaler,133,Johnson & Johnson,Over-the-Counter,CareWell Pharmacy,Faisalabad
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Injection,605,GSK,Over-the-Counter,TrustPharma,Karachi
+Toothache,Dental Infection,Augmentin,Combination,Cream,959,Takeda,Prescription,DawaCenter,Lahore
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Tablet,271,AstraZeneca,Over-the-Counter,DawaCenter,Faisalabad
+Body Pain,Muscle Pain,Ibuprofen,Analgesic,Ointment,849,Merck,Prescription,CureMed,Lahore
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Drops,209,Sanofi,Prescription,CureMed,Islamabad
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Drops,469,Takeda,Over-the-Counter,TrustPharma,Quetta
+Sore Throat,Infection,Amoxicillin,Antiviral,Tablet,889,Takeda,Over-the-Counter,TrustPharma,Faisalabad
+Toothache,Dental Infection,Augmentin,Combination,Cream,647,Bayer,Over-the-Counter,DawaCenter,Lahore
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Cream,909,Roche,Over-the-Counter,HealthPlus,Faisalabad
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Ointment,692,Novartis,Prescription,CureMed,Multan
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Syrup,403,Johnson & Johnson,Over-the-Counter,CityMeds,Peshawar
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Cream,931,Pfizer,Over-the-Counter,LifeCure,Lahore
+,Otitis,Ciprofloxacin,Antibiotic,Capsule,374,GSK,Over-the-Counter,DawaCenter,Peshawar
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Drops,547,Bayer,Prescription,LifeCure,Faisalabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Cream,989,Teva,Over-the-Counter,LifeCure,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Ointment,476,Merck,Over-the-Counter,HealthPlus,Karachi
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Inhaler,378,Roche,Prescription,MediCare,Karachi
+Sore Throat,Infection,Amoxicillin,Antiviral,Drops,698,Novartis,Prescription,LifeCure,Faisalabad
+,Headache,Sumatriptan,Antimigraine,Ointment,209,Takeda,Prescription,CureMed,Quetta
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Tablet,118,Novartis,Prescription,CureMed,Quetta
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Drops,658,GSK,Prescription,MediCare,Lahore
+Urinary Pain,UTI,Nitrofurantoin,Antibacterial,Drops,852,Eli Lilly,Prescription,HealthPlus,Lahore
+Sore Throat,Infection,Amoxicillin,Antiviral,Injection,212,Teva,Over-the-Counter,DawaCenter,Peshawar
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Capsule,693,AstraZeneca,Over-the-Counter,CureMed,Multan
+Ear Pain,Otitis,Ciprofloxacin,Antibiotic,Inhaler,278,Sanofi,Over-the-Counter,CureMed,Faisalabad
+Migraine,Headache,Sumatriptan,Antimigraine,Inhaler,353,Teva,Prescription,DawaCenter,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Ointment,662,AstraZeneca,Over-the-Counter,CityMeds,Quetta
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Cream,507,Pfizer,Over-the-Counter,CureMed,Quetta
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,332,AstraZeneca,Over-the-Counter,DawaCenter,Karachi
+Migraine,Headache,Sumatriptan,Antimigraine,Capsule,137,Pfizer,Over-the-Counter,WellLife,Peshawar
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Capsule,210,GSK,Over-the-Counter,CureMed,Karachi
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Syrup,601,GSK,Prescription,CityMeds,Lahore
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Capsule,759,Takeda,Prescription,DawaCenter,Quetta
+Abdominal Pain,Ulcer,Omeprazole,Antacid,Injection,451,Bayer,Prescription,WellLife,Karachi
+Eye Infection,Conjunctivitis,Tobramycin,Antibacterial,Inhaler,912,Roche,Prescription,WellLife,Karachi
+Sore Throat,Infection,Amoxicillin,Antiviral,Ointment,797,Teva,Over-the-Counter,LifeCure,Lahore
+"High Sugar, Fatigue",Diabetes,Metformin,Antidiabetic,Tablet,813,Eli Lilly,Over-the-Counter,MediCare,Islamabad
+Skin Rash,Fungal Infection,Clotrimazole,Antifungal,Ointment,598,Abbott,Over-the-Counter,DawaCenter,Lahore
+Burn Injury,Burn,Silver Sulfadiazine,Topical Cream,Syrup,313,Teva,Prescription,HealthPlus,Peshawar
+Dizziness,Low BP,Midodrine,Vasoconstrictor,Ointment,309,Sanofi,Over-the-Counter,LifeCure,Faisalabad
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Ointment,275,Sanofi,Over-the-Counter,MediCare,Islamabad
+Back Pain,Spinal Pain,Naproxen,Pain Reliever,Ointment,208,Sanofi,Prescription,Sehat Pharmacy,Islamabad
+"Vomiting, Nausea",Food Poisoning,Ondansetron,Antiemetic,Drops,717,Merck,Prescription,DawaCenter,Islamabad
+"Cold, Sneezing",Common Cold,Cetirizine,Antihistamine,Inhaler,630,Sanofi,Prescription,DawaCenter,Faisalabad
+"Cough, Chest Pain",Bronchitis,Azithromycin,Antibiotic,Cream,721,Abbott,Over-the-Counter,CityMeds,Quetta
