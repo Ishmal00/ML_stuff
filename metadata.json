@@ -1,0 +1,9 @@
+
+{
+  "name": "RecallAI - Human-Centric Video Memory Search",
+  "description": "A semantic search engine for video memories using Gemini 3's advanced reasoning to match vague, emotional, and contextual prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
